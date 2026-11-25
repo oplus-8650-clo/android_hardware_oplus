@@ -1,0 +1,6 @@
+type oplus_touch_settings_app, domain, coredomain;
+
+app_domain(oplus_touch_settings_app)
+hal_client_domain(oplus_touch_settings_app, vendor_hal_oplus_touch)
+
+allow oplus_touch_settings_app app_api_service:service_manager find;

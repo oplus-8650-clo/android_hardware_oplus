@@ -1,0 +1,11 @@
+android_app {
+    name: "OplusTouchSettings",
+    srcs: ["src/**/*.java"],
+    certificate: "platform",
+    platform_apis: true,
+    system_ext_specific: true,
+    static_libs: [
+        "SettingsLibTile",
+        "vendor.oplus.hardware.touch-V2-java",
+    ],
+}
