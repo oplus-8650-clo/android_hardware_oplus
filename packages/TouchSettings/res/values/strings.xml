@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Touch settings</string>
+    <string name="polling_title">High touch polling rate</string>
+    <string name="polling_description">Request the touchscreen’s game mode.</string>
+    <string name="glove_title">Glove mode</string>
+    <string name="glove_description">Increase touch sensitivity for use with gloves.</string>
+    <string name="write_failed">The touchscreen did not confirm the requested change</string>
+</resources>
