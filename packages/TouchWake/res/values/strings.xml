@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Touch wake</string>
+    <string name="touch_controls_title">Touch controls</string>
+    <string name="double_tap_title">Double tap to wake</string>
+    <string name="single_tap_title">Single tap to wake</string>
+    <string name="write_failed">Could not save the touch wake setting</string>
+</resources>
